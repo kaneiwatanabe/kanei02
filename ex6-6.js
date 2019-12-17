@@ -1,15 +1,17 @@
-var who = 'world';
-// var come ='が来た'
+var who66 = 'world';
+
 function sayhello66() {
-// var who = 'world';
+
    alert('Hello, ' + who66 + '!');
 }
 
-function taro() {
+function taro66(){
    who66 = '太郎';
 }
-function hanako(){
-    who6 = '花子';
+function gakita() {alert(who66 + 'が来た');
+}
+function hanako66(){
+    who66 = '花子';
 }
 function gakita() {alert(who66 + 'が来た');
 }
